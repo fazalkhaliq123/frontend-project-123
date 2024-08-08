@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+header{
+  display: flex; 
+  background-color: #ffffff;
+  height: 80px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.myntra_home {
+  height: 45px;
+}
+
+.log_container{
+  margin-left: 4%;
+}
+
+.action_bar {
+  margin-right: 4%;
+}
+
